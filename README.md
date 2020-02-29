@@ -6,6 +6,7 @@ fork or clone the project
 
 yarn install
 
-cd ios pod install
+cd ios
+pod install
 
-npm run ios or npm run android
+npx react-native run-ios  or npx react-native run-android
